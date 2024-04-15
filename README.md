@@ -6,6 +6,7 @@ Scraped review data from Skytrax, focusing on reviews about British Airways.
 Utilized Python for data collection, emphasizing meticulous data cleaning for analysis readiness.
 Employed techniques such as topic modeling, sentiment analysis, and word clouds to extract insights.
 Summarized findings concisely in a single PowerPoint slide, ready for board meeting presentation.
+
 Task 2:
 
 Explored dataset using provided Jupyter Notebook, understanding its structure and basic statistics.
